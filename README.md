@@ -16,11 +16,16 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ## 🚀 Live Demo
 [🔗 Play Now](https://swarup-kp.github.io/Rock-Paper-Scissors/)
 
-## 📸 Screenshot
-![Game Preview]()
-![Game Preview]()
-![Game Preview]()
-![Game Preview]()
+## 📸 Screenshots
+
+![Start Screen](https://github.com/swarup-kp/Rock-Paper-Scissors/blob/main/Screenshot%202025-07-30%20122051.png?raw=true)
+
+![Gameplay](https://github.com/swarup-kp/Rock-Paper-Scissors/blob/main/Screenshot%202025-07-30%20122128.png?raw=true)
+
+![Result](https://github.com/swarup-kp/Rock-Paper-Scissors/blob/main/Screenshot%202025-07-30%20122140.png?raw=true)
+
+![Scoreboard](https://github.com/swarup-kp/Rock-Paper-Scissors/blob/main/Screenshot%202025-07-30%20122153.png?raw=true)
+
 
 ## 📂 How to Run Locally
 ```bash

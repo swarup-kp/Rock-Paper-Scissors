@@ -14,7 +14,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 - JavaScript (Vanilla)
 
 ## 🚀 Live Demo
-[🔗 Play Now](https://yourusername.github.io/rock-paper-scissors)
+[🔗 Play Now]([https://yourusername.github.io/rock-paper-scissors](https://github.com/swarup-kp/Rock-Paper-Scissors/tree/main))
 
 ## 📸 Screenshot
 *(Insert screenshot here if you have one)*

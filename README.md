@@ -1,17 +1,48 @@
-# Rock Paper Scissors 🎮
+## Rock, Paper, Scissors Game 🎮
+A classic Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. Play against the computer and track your wins!
 
-A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
+## 🎯 Features
+Interactive Gameplay: Click on rock, paper, or scissors to make your move
+Score Tracking: Keep track of wins for both player and computer
+Visual Feedback: Dynamic messages and color-coded results
+Responsive Design: Clean and modern UI with hover effects
+Reset Functionality: Reset the game and scores anytime
+Smooth Animations: Hover effects and transitions for better UX
 
-## ✨ Features
-- Play against a computer with random choices
-- Real-time score tracking
-- Basic animations and feedback
-- Fully responsive UI
+## 🎮 How to Play
+Choose your move by clicking on one of the three options: Rock, Paper, or Scissors
+The computer will automatically make its choice
+The winner is determined by the classic rules:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+Scores are updated automatically
+Use the "Reset Game" button to start over
 
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript (Vanilla)
+## 🛠️ Technologies Used
+HTML5: Structure and layout
+CSS3: Styling, animations, and responsive design
+JavaScript: Game logic and interactivity
+
+## 📁 Project Structure
+rock-paper-scissors/
+│
+├── index.html          # Main HTML file
+├── styles.css          # CSS styling
+├── script.js           # JavaScript game logic
+├── Images/             # Game images folder
+│   ├── rock.png        # Rock image
+│   ├── paper.png       # Paper image
+│   └── scissors.png    # Scissors image
+└── README.md           # Project documentation
+
+## 🚀 Getting Started
+Clone the repository:
+
+git clone https://github.com/yourusername/rock-paper-scissors.git
+Navigate to the project directory:
+
+cd rock-paper-scissors
 
 ## 🚀 Live Demo
 [🔗 Play Now](https://swarup-kp.github.io/Rock-Paper-Scissors/)

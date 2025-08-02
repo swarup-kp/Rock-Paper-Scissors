@@ -45,7 +45,7 @@ A classic Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. Play 
 
 ## 📁 Project Structure
 
-
+```
 rock-paper-scissors/
 │
 ├── index.html          # Main HTML file
@@ -56,7 +56,7 @@ rock-paper-scissors/
 │   ├── paper.png       # Paper image
 │   └── scissors.png    # Scissors image
 └── README.md           # Project documentation
-
+```
 
 ## 🚀 Getting Started
 
